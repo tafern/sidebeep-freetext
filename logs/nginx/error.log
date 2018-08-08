@@ -1,0 +1,2 @@
+2018/08/08 08:35:17 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2018/08/08 08:38:33 [emerg] 1#1: ipv6only is not supported on addr "127.0.0.1:80", ignored in /etc/nginx/sites-available/site.conf:3

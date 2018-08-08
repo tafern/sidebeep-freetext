@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  ### PHP-FPM Container
+  php-fpm:
+    build: ./build/php-fpm
+    volumes:
+      - ./src:/var/www
+    expose:
+      - "9000"
+
+  ### NGINX Container
+  nginx:
+    build: ./build/nginx
+    volumes:
+      - ./logs/nginx/:/var/log/nginx
+      - ./src:/var/www
+    ports:
+      - "80:80"
+    links:
+      - php-fpm
+    
