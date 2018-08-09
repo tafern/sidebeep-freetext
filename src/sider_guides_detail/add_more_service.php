@@ -30,15 +30,15 @@
                 Tambahkan menu jasa
               </h3>
               <p>
-                Apabila jasa Anda memiliki penawaran berikutnya yang lebih detail atau spesifik masukan ke dalam menu <b>Service Menus</b>.
+                Apabila jasa Anda memiliki penawaran berikutnya yang lebih detail atau spesifik masukan ke dalam menu <a class="subLink" href="#">Service Menus</a>.
                 <br/>
                 <img class="imageCharacter" src="../assets/images/sider_stepper/servis_menu.png">
                 <br/>
                 <img class="imageCharacter" src="../assets/images/sider_stepper/servis_menu_detail.png">
                 <br/>
                 <br/>
-                Service Menus adalah menu untuk menampilkan berbagai penawaran lain dari jasa Anda. Misalkan Anda menjual jasa Makeup, silahkan buat penawaran menu makeup lain yang lebih detail misal ; reguler makeup, wedding makeup, photoshoot makeup dan seterusnya.
-                Lenkapi keterangan seputar penawaran services menu Anda seperti nama servis, deskripsi servis, harga dan waktu pengerjaan. Setelah itu lengkapi pula jadwal, kapan waktu kesediaan Anda melayani pemesanan servis Anda di pengaturan <b>Date and time</b>.
+                Service Menus adalah menu untuk menampilkan berbagai penawaran lain dari jasa Anda. Misalkan Anda menjual jasa Makeup, silahkan buat penawaran menu makeup lain yang lebih detail misal reguler makeup, wedding makeup, photoshoot makeup dan seterusnya.
+                Lenkapi keterangan seputar penawaran services menu Anda seperti nama servis, deskripsi servis, harga dan waktu pengerjaan. Setelah itu lengkapi pula jadwal, kapan waktu kesediaan Anda melayani pemesanan servis Anda di pengaturan <a class="subLink" href="#">Date and time</a>.
 
 
               </p>

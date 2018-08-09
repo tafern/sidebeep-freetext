@@ -18,7 +18,7 @@
     <body>
 
       <div class="container">
-          
+
           <div class="header">
             <h1 class="header-title">Bantuan mengenai pengaturan waktu pada saat pesan jasa.</h1>
           </div>
@@ -32,10 +32,10 @@
               <p>
                 <img class="imageCharacter" src="../assets/images/set_time.png">
                 <br/>
-                Pilih sendiri tanggal dan waktu, kapan Anda menginginkan jasa dari SIDER yang telah dipilih bisa didapatkan di <b>DATE AND TIME</b>. 
+                Pilih sendiri tanggal dan waktu, kapan Anda menginginkan jasa dari <a class="subLink" href="../term_of_detail/sider.php">Sider</a> yang telah dipilih bisa didapatkan di <a class="subLink" href="#">DATE AND TIME</a>. 
                 <br/>
                 <br/>
-                Ini adalah jadwal yang disediakan <b>Sider</b> untuk menerima pemesanan jasa dari pelanggan jasa atau <b>Bepeer</b>. Jadwal yang bisa Anda pilih merupakan waktu dan jam dimana <b>Sider</b> masih bersedia menerima pemesanan jasa. Untuk lebih memaksimalkan hasil pemesanan, disarankan agar melakukan pemesanan minimum 3 jam sebelum Anda menginginkan layanan jasa <b>Sider</b>.    
+                Ini adalah jadwal yang disediakan <a class="subLink" href="../term_of_detail/sider.php">Sider</a> untuk menerima pemesanan jasa dari pelanggan jasa atau <a class="subLink" href="#">Bepeer</a>. Jadwal yang bisa Anda pilih merupakan waktu dan jam dimana <a class="subLink" href="../term_of_detail/sider.php">Sider</a> masih bersedia menerima pemesanan jasa. Untuk lebih memaksimalkan hasil pemesanan, disarankan agar melakukan pemesanan minimum 3 jam sebelum Anda menginginkan layanan jasa <a class="subLink" href="../term_of_detail/sider.php">Sider</a>.    
               </p>
             </div>
           </div>

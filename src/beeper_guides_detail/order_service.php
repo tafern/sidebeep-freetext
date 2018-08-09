@@ -32,10 +32,10 @@
               <p>
                 <img class="imageCharacter" src="../assets/images/order_service.png">
                 <br/>
-                Setelah pertanyaan detail servis dijawab <b>SIDER</b> lewat <b>CHAT</b>, segera lanjutkan pemesanan jasa dengan menentukan jumlah jasa yang dinginkan lewat <b>CREATE REQUEST</b>, lalu pilih <b>NEXT</b>.
+                Setelah pertanyaan detail servis dijawab <a class="subLink" href="../term_of_detail/sider.php">Sider</a> lewat <a class="subLink" href="#">CHAT</a>, segera lanjutkan pemesanan jasa dengan menentukan jumlah jasa yang dinginkan lewat <a class="subLink" href="#">CREATE REQUEST</a>, lalu pilih <a class="subLink" href="#">NEXT</a>.
                 <br/>
                 <br/>
-                Gunakakan Create Request untuk menentukan jumlah jasa yang ingin didapatkan dari servis menu <b>Sider</b> lewat <b>Create Request</b>. Untuk menentukan jumlah servis yang ingin dipesan Anda tinggal menggunakan (+) sesuai dengan jumlah yang dibutuhkan atau untuk melakukan perubahan mengurangi atau menghilangkan jumlah servis gunakan (-).
+                Gunakakan Create Request untuk menentukan jumlah jasa yang ingin didapatkan dari servis menu <a class="subLink" href="../term_of_detail/sider.php">Sider</a> lewat <a class="subLink" href="#">Create Request</a>. Untuk menentukan jumlah servis yang ingin dipesan Anda tinggal menggunakan (+) sesuai dengan jumlah yang dibutuhkan atau untuk melakukan perubahan mengurangi atau menghilangkan jumlah servis gunakan (-).
               </p>
             </div>
           </div>

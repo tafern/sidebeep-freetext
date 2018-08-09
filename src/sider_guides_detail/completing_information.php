@@ -32,7 +32,7 @@
               </h3>
               <p>
                 <br/>
-                Setelah berhasil melakukan <b>Registrasi</b>, segera lengkapi <b>Data Diri</b> dengan mengisi beberapa pertanyaan dan jangan lupa mengisi persetujuan <b>Term and Condition</b>.  
+                Setelah berhasil melakukan <a class="subLink" href="#">Registrasi</a>, segera lengkapi <a class="subLink" href="#">Data Diri</a> dengan mengisi beberapa pertanyaan dan jangan lupa mengisi persetujuan <a class="subLink" href="#">Term and Condition</a>.  
                 <br/>
                 <img class="imageCharacter" src="../assets/images/sider_stepper/lengkapi_data_diri_1.png">
                 <br/>

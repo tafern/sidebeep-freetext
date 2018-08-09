@@ -30,7 +30,7 @@
                 Membuat Jasa
               </h3>
               <p>
-                Segera buat jasa Anda dengan melengkapi beberapa langkah seperti <b>Choose Category Services</b>, pilih jenis layanan jasa <b>Fix</b> atau <b>Flex</b> dan tentukan lokasi jasa Anda di <b>Choose Location</b>.
+                Segera buat jasa Anda dengan melengkapi beberapa langkah seperti <a class="subLink" href="#">Choose Category Services</a>, pilih jenis layanan jasa <a class="subLink" href="../temp_of_detail/fix.php">Fix</a> atau <a class="subLink" href="../temp_of_detail/flex.php">Flex</a> dan tentukan lokasi jasa Anda di <a class="subLink" href="#">Choose Location</a>.
                 <br/>
                 <img class="imageCharacter" src="../assets/images/sider_stepper/buat_jasa.png">
                 <br/>

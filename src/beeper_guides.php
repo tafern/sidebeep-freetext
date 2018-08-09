@@ -42,7 +42,7 @@
               <p>
                 <img class="imageCharacter" src="assets/images/find_service.png">
                 <br/>
-                Anda bisa mencari jasa dari para Sider terpercaya yang ada di Sidebeep dengan menggunakan <b>Search</b>, berdasarkan nama <b>Sider</b>, jenis jasa atau kategori jasa. 
+                Anda bisa mencari jasa dari para <a class="subLink" href="term_of_detail/sider.php">Sider</a> terpercaya yang ada di Sidebeep dengan menggunakan <a class="subLink" href="#">Search</a>, berdasarkan nama <a class="subLink" href="temp_of_detail/sider.php">Sider</a>, jenis jasa atau kategori jasa. 
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="beeper_guides_detail/find_service.php">Selengkapnya mengenai search</a>
@@ -56,7 +56,7 @@
               <p>
                 <img class="imageCharacter" src="assets/images/chat.png">
                 <br/>
-                Setelah menemukan jasa sesuai keinginan, jangan lupa gunakan <b>Chat</b> untuk membicarakan lebih detail jasa yang akan Anda pesan langsung dari <b>Sider</b>. 
+                Setelah menemukan jasa sesuai keinginan, jangan lupa gunakan <a class="subLink" href="#">Chat</a> untuk membicarakan lebih detail jasa yang akan Anda pesan langsung dari <a class="subLink" href="term_of_detail/sider.php">Sider</a>. 
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="beeper_guides_detail/chat_with_sider.php">Selengkapnya mengenai chat</a>
@@ -69,7 +69,7 @@
               </h3>
               <p>
                 <img class="imageCharacter" src="assets/images/order_service.png">
-                <br/>Setelah pertanyaan detail servis dijawab <b>SIDER</b> lewat <b>CHAT</b>, segera lanjutkan pemesanan jasa dengan menentukan jumlah jasa yang dinginkan lewat <b>CREATE REQUEST</b>, lalu pilih <b>NEXT</b>.
+                <br/>Setelah pertanyaan detail servis dijawab <a class="subLink" href="term_of_detail/sider.php">Sider</a> lewat <a class="subLink" href="#">Chat</a>, segera lanjutkan pemesanan jasa dengan menentukan jumlah jasa yang dinginkan lewat <a class="subLink" href="#">Create Request</a>, lalu pilih <a class="subLink" href="#">Submit</a>.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="beeper_guides_detail/order_service.php">Selengkapnya mengenai pemesanan jasa</a>
@@ -82,7 +82,7 @@
               </h3>
               <p>
                 <img class="imageCharacter" src="assets/images/set_time.png">
-                <br/>Pilih sendiri tanggal dan waktu, kapan Anda menginginkan jasa dari SIDER yang telah dipilih bisa didapatkan di <b>DATE AND TIME</b>.
+                <br/>Pilih sendiri tanggal dan waktu, kapan Anda menginginkan jasa dari <a class="subLink" href="term_of_detail/sider.php">Sider</a> yang telah dipilih bisa didapatkan di <a class="subLink" href="#">Date And Time</a>.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="beeper_guides_detail/set_time.php">Selengkapnya mengenai pengaturan waktu</a>
@@ -96,7 +96,7 @@
               <p>
                 <img class="imageCharacter" src="assets/images/location.png">
                 <br/>
-                Ketahui lokasi SIDER atau tentukan lokasi dimana <b>SIDER</b> akan memberikan layanan jasanya kepada Anda di halaman <b>LOCATION</b>.
+                Ketahui lokasi SIDER atau tentukan lokasi dimana <a class="subLink" href="term_of_detail/sider.php">Sider</a> akan memberikan layanan jasanya kepada Anda di halaman <a class="subLink" href="#">Location</a>.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="beeper_guides_detail/set_location.php">Selengkapnya mengenai lokasi</a>
@@ -110,7 +110,7 @@
               <p>
                 <img class="imageCharacter" src="assets/images/payment.png">
                 <br/>
-                Lakukan <b>PAYMENT</b> dengan memilih Payment Method, lalu <b>CREATE REQUEST</b>. Setelah mendapatkan konfirmasi dari <b>SIDER</b> segera lakukan pembayaran.
+                Lakukan <a class="subLink" href="#">Payment</a> dengan memilih Payment Method, lalu <a class="subLink" href="#">Create Request</a>. Setelah mendapatkan konfirmasi dari <a class="subLink" href="term_of_detail/sider.php">Sider</a> segera lakukan pembayaran.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_service.php">Selengkapnya mengenai pembayaran</a>
@@ -124,7 +124,7 @@
               </h3>
               <p>
                 <img class="imageCharacter" src="assets/images/rating_and_review.png">
-                <br/>Berikan <b>Rating & Review</b> berdasarkan tingkat kepuasaan Anda menggunakan jasa <b>SIDER</b>.
+                <br/>Berikan <a class="subLink" href="#">Rating & Review</a> berdasarkan tingkat kepuasaan Anda menggunakan jasa <a class="subLink" href="term_of_detail/sider.php">Sider</a>.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="beeper_guides_detail/rating_and_review.php">Selengkapnya mengenai rating & review</a>

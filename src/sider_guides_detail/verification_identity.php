@@ -30,11 +30,11 @@
                 Verifikasi
               </h3>
               <p>
-                Demi tujuan keamanan calon pelanggan jasa Anda dan sesama pengguna Sidebeep, lakukan <b>Verifikasi</b> dengan menyetorkan KTP Anda.
+                Demi tujuan keamanan calon pelanggan jasa Anda dan sesama pengguna Sidebeep, lakukan <a class="subLink" href="#">Verifikasi</a> dengan menyetorkan KTP Anda.
                 <br/>
                 <img class="imageCharacter" src="../assets/images/sider_stepper/verifikasi_ktp.png">
                 <br/>
-                Untuk meminimalisir terjadinya masalah keamanan dan menciptakan kenyamanan Beeper dalam memesan jasa proses verifikasi di Sidebeep memang dibuat seaman mungkin. Dimana Sider wajib menyertakan KTP saat mendaftar dan wajib melewati tahapan verifikasi dari internal tim Sidebeep. 
+                Untuk meminimalisir terjadinya masalah keamanan dan menciptakan kenyamanan <a href="../term_of_detail/beeper.php">Beeper</a> dalam memesan jasa proses verifikasi di Sidebeep memang dibuat seaman mungkin. Dimana Sider wajib menyertakan KTP saat mendaftar dan wajib melewati tahapan verifikasi dari internal tim Sidebeep. 
               </p>
             </div>
           </div>

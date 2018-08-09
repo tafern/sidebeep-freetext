@@ -32,10 +32,10 @@
               <p>
                 <img class="imageCharacter" src="../assets/images/rating_and_review.png">
                 <br/>
-                Berikan <b>Rating & Review</b> berdasarkan tingkat kepuasaan Anda menggunakan jasa <b>SIDER</b>.
+                Berikan <a class="subLink" href="">Rating & Review</a> berdasarkan tingkat kepuasaan Anda menggunakan jasa <a class="subLink" href="../term_of_detail/sider.php">Sider</a>.
                 <br/>
                 <br/>
-                Melalui <b>Rating & Review</b> berarti Anda telah berpartisipasi mengenalkan jasa dan memberikan tingkat kepuasan dari para <b>Sider</b> kepada komunitas SIDEBEEP lainnya.
+                Melalui <a class="subLink" href="">Rating & Review</a> berarti Anda telah berpartisipasi mengenalkan jasa dan memberikan tingkat kepuasan dari para <a class="subLink" href="../term_of_detail/sider.php">Sider</a> kepada komunitas <a class="subLink" href="../term_of_detail/sidebeep.php">Sidebeep</a> lainnya.
               </p>
             </div>
           </div>

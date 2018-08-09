@@ -30,7 +30,7 @@
                 Aktifkan jasa
               </h3>
               <p>
-                Untuk bisa menjual jasa kepada <b>Beeper</b> pastikan akun Anda telah melakukan <b>Verifikasi</b> dan jasa yang dibuat telah Aktif.
+                Untuk bisa menjual jasa kepada <a class="subLink" href="../term_of_detail/beeper.php">Beeper</a> pastikan akun Anda telah melakukan <a class="subLink" href="#">Verifikasi</a> dan jasa yang dibuat telah Aktif.
                 <br/>
                 <img class="imageCharacter" src="../assets/images/sider_stepper/aktifin_servis.png">
                 <br/>
@@ -46,5 +46,5 @@
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
-    </body>
+    </aody>
 </html>

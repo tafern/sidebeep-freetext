@@ -33,10 +33,10 @@
               <p>
                 <img class="imageCharacter" src="../assets/images/chat.png">
                 <br/>
-                Setelah menemukan jasa sesuai keinginan, jangan lupa gunakan <b>Chat</b> untuk membicarakan lebih detail jasa yang akan Anda pesan langsung dari <b>Sider</b>. 
+                Setelah menemukan jasa sesuai keinginan, jangan lupa gunakan <a class="subLink" href="#">Chat</a> untuk membicarakan lebih detail jasa yang akan Anda pesan langsung dari <a class="subLink" href="../term_of_detail/sider.php">Sider</a>. 
                 <br/>
                 <br/>
-                Lewat <b>Chat</b> "Beeper" dan "Sider" dapat langsung berinteraksi untuk menanyakan detail pemesanan seperti ketersediaan jasa sesuai jadwal yang diinginkan, berapa lama durasi perjalanan, berapa biaya transportasi dan berbagai pertanyaan lainnya seputar detail servis.    
+                Lewat <a class="subLink" href="#">Chat</a> "Beeper" dan "Sider" dapat langsung berinteraksi untuk menanyakan detail pemesanan seperti ketersediaan jasa sesuai jadwal yang diinginkan, berapa lama durasi perjalanan, berapa biaya transportasi dan berbagai pertanyaan lainnya seputar detail servis.    
               </p>
             </div>
           </div>

@@ -53,9 +53,9 @@
               <p>
                 <img class="imageCharacter" src="assets/images/chat.png">
                 <br/>
-                Sider adalah para penyedia jasa gaya hidup yang menjual jasanya menggunakan aplikasi Sidebeep. Untuk menjadi Sider, selain harus memiliki jasa gaya hidup yang ingin ditawarkan, beberapa tahapan seperti : registrasi, verifikasi, membuat jasa, menampilkan menu jasa, melakukan aktivasi jasa dan memiliki sidebeep kredit. 
+                <a href="term_of_detail/sider.php">Sider</a> adalah para penyedia jasa gaya hidup yang menjual jasanya menggunakan aplikasi Sidebeep. Untuk menjadi Sider, selain harus memiliki jasa gaya hidup yang ingin ditawarkan, beberapa tahapan seperti : registrasi, verifikasi, membuat jasa, menampilkan menu jasa, melakukan aktivasi jasa dan memiliki sidebeep kredit. 
                 <br/>
-                Setiap Sider di aplkasi Sidebeep akan mendapatkan berbagai kemudahan dalam menawarkan jasa gaya hidupnya ke para Beeper. Mulai dari : menampilkan jasa, mengatur jadwal ketersediaan jasa, berinteraksi dengan Beeper dan menikmati pilihan melakukan transaksi. Mulai dari tunai, non-tunai menggunakan bank transfer, credit card hingga cicilan tanpa kartu kredit. Semua transaksi di Sidebeep pun dijamin aman!
+                Setiap <a href="term_of_detail/sider.php">Sider</a> di aplkasi Sidebeep akan mendapatkan berbagai kemudahan dalam menawarkan jasa gaya hidupnya ke para Beeper. Mulai dari : menampilkan jasa, mengatur jadwal ketersediaan jasa, berinteraksi dengan <a href="term_of_detail/beeper.php">Beeper</a> dan menikmati pilihan melakukan transaksi. Mulai dari tunai, non-tunai menggunakan bank transfer, credit card hingga cicilan tanpa kartu kredit. Semua transaksi di Sidebeep pun dijamin aman!
                 <br/>
               </p>
             </div>
@@ -68,9 +68,9 @@
                 <img class="imageCharacter" src="assets/images/term_of_sidebeep/beeper.png">
                 <br/>
                 <br/>
-                Beeper adalah pelanggan yang mendapatkan jasa gaya hidup dari Sider menggunakan aplikasi Sidebeep. Setelah meng-instal aplikasi Sidebeep dan melakukan registrasi Beeper bisa mendapatkan pilihan berbagai jasa gaya hidup dari para Sider profesional dan berkualitas di bidangnya. Beberapa kategori jasa gaya hidup seperti : artis tato, builder motor kustom, sneakers dan fashion customizer, makeup artist, personal shopper, travel guide sampai personal fitness trainer. 
+                <a href="term_of_detail/beeper.php">Beeper</a> adalah pelanggan yang mendapatkan jasa gaya hidup dari <a href="term_of_detail/sider.php">Sider</a> menggunakan aplikasi Sidebeep. Setelah meng-instal aplikasi Sidebeep dan melakukan registrasi <a href="../term_of_detail/beeper.php">Beeper</a> bisa mendapatkan pilihan berbagai jasa gaya hidup dari para <a href="term_of_detail/sider.php">Sider</a> profesional dan berkualitas di bidangnya. Beberapa kategori jasa gaya hidup seperti : artis tato, builder motor kustom, sneakers dan fashion customizer, makeup artist, personal shopper, travel guide sampai personal fitness trainer. 
                 <br/>
-                Semua pilihan jasa gaya hidup tersebut dapat dipilih sesuai dengan kebutuhan dan kemampuan. Setiap Beeper bisa dengan mudah mencari jasa, melakukan perbandingan jasa, konsultasi, booking hingga bertransaksi. Mulai dari tunai, non-tunai menggunakan bank transfer, credit card hingga cicilan tanpa kartu kredit dengan jangka waktu peminjaman 1-12 Bulan. 
+                Semua pilihan jasa gaya hidup tersebut dapat dipilih sesuai dengan kebutuhan dan kemampuan. Setiap <a href="../term_of_detail/beeper.php">Beeper</a> bisa dengan mudah mencari jasa, melakukan perbandingan jasa, konsultasi, booking hingga bertransaksi. Mulai dari tunai, non-tunai menggunakan bank transfer, credit card hingga cicilan tanpa kartu kredit dengan jangka waktu peminjaman 1-12 Bulan. 
                 <br/>
               </p>
             </div>
@@ -85,7 +85,7 @@
                 <br/>
                 Kategori servis FIX adalah jasa yang perhitungan biaya dan durasi waktu pengerjaannya dapat ditentukan secara langsung, tanpa perlu melakukan konsultasi terlebih dahulu. 
                 <br/>
-                Contoh jika Sider ingin menjual jasa reguler makeup dengan durasi waktu pengerjaan selama 2 jam dengan harga Rp. 500,000,- /orang, Sider bisa memasukan jasa ini ke kategori FIX. 
+                Contoh jika <a href="term_of_detail/sider.php">Sider</a> ingin menjual jasa reguler makeup dengan durasi waktu pengerjaan selama 2 jam dengan harga Rp. 500,000,- /orang, <a href="term_of_detail/sider.php">Sider</a> bisa memasukan jasa ini ke kategori FIX. 
                 <br/>
               </p>
             </div>
@@ -98,9 +98,9 @@
                 <img class="imageCharacter" src="assets/images/term_of_sidebeep/flex.png">
                 <br/>
                 <br/>
-                Kategori servis Flex adalah jasa yang perhitungan biaya dan durasi waktu pengerjaannya belum bisa ditentukan secara langsung, sehingga antara Sider dan Beeper perlu melakukan konsultasi terlebih dahulu. 
+                Kategori servis Flex adalah jasa yang perhitungan biaya dan durasi waktu pengerjaannya belum bisa ditentukan secara langsung, sehingga antara <a href="term_of_detail/sider.php">Sider</a> dan <a href="../term_of_detail/beeper.php">Beeper</a> perlu melakukan konsultasi terlebih dahulu. 
                 <br/>
-                Contoh jika Sider ingin menjual jasa kustom motor yang pengerjaannya berdasarkan kepada keinginan Beeper. Berarti untuk bisa menentukan harga dan lama durasi pengerjaan diperlukan dulu konsultasi antara Sider dan Beeper. Konsultasi bisa dilakukan melalui Chat langsung dari aplikasi Sidebeep. Dalam Chat Sider bisa mengeluarkan penawaran jasa yang sesuai dengan keinginan Beeper. Apabila Beeper setuju bisa lanjut melakukan order.
+                Contoh jika <a href="term_of_detail/sider.php">Sider</a> ingin menjual jasa kustom motor yang pengerjaannya berdasarkan kepada keinginan Beeper. Berarti untuk bisa menentukan harga dan lama durasi pengerjaan diperlukan dulu konsultasi antara <a href="term_of_detail/sider.php">Sider</a> dan Beeper. Konsultasi bisa dilakukan melalui Chat langsung dari aplikasi Sidebeep. Dalam Chat <a href="term_of_detail/sider.php">Sider</a> bisa mengeluarkan penawaran jasa yang sesuai dengan keinginan Beeper. Apabila <a href="../term_of_detail/beeper.php">Beeper</a> setuju bisa lanjut melakukan order.
                 <br/>
               </p>
             </div>
@@ -112,9 +112,9 @@
               <p>
                 <img class="imageCharacter" src="assets/images/payment.png">
                 <br/>
-                Adalah token yang harus dimiliki Sider agar bisa menerima pesanan dari Beeper. Setiap pesanan yang berhasil menjadi transaksi akan secara otomatis menarik Sidebeep kredit Sider sebesar Rp.10,000,-/ transaksi sukses. 
+                Adalah token yang harus dimiliki <a href="term_of_detail/sider.php">Sider</a> agar bisa menerima pesanan dari Beeper. Setiap pesanan yang berhasil menjadi transaksi akan secara otomatis menarik Sidebeep kredit <a href="term_of_detail/sider.php">Sider</a> sebesar Rp.10,000,-/ transaksi sukses. 
                 <br/>
-                Untuk membeli Sidebeep Credit, Sider bisa langsung melakukan top up dari aplikasi Sidebeep dan pembayaran bisa dilakukan lewat bank transfer.
+                Untuk membeli Sidebeep Credit, <a href="term_of_detail/sider.php">Sider</a> bisa langsung melakukan top up dari aplikasi Sidebeep dan pembayaran bisa dilakukan lewat bank transfer.
                 <br/>
               </p>
             </div>

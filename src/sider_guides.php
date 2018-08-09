@@ -25,19 +25,19 @@
           <div class="row">
             <div class="col-xs-12">
               <h3 class="u-txt--xlarge u-txt--light">
-                Ayo jual jasa seputar gaya hidup di SIDEBEEP,  dapatkan berbagai kemudahan dan keuntungannya!
+                Ayo jual jasa seputar gaya hidup di <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a>,  dapatkan berbagai kemudahan dan keuntungannya!
               </h3>
-              <p>Kenapa harus menjual jasa gaya hidup kamu di SIDEBEEP? 
+              <p>Kenapa harus menjual jasa gaya hidup kamu di <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a> ? 
               <br/>
               1. Ini adalah FREE marketing tools yang tepat digunakan untuk mengembangkan bisnis jasa Anda karena bisa digunakan dengan gratis. 
               <br/>
-              2. Karena aplikasi Sidebeep menyasar market pengguna yang sesuai dengan jasa Anda yaitu para pecinta gaya hidup.
+              2. Karena aplikasi <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a> menyasar market pengguna yang sesuai dengan jasa Anda yaitu para pecinta gaya hidup.
               <br/>
-              3. Sidebeep memberikan kemudahan bertransaksi yang akan membantu penjual jasa meningkatkan penjualan jasanya melalui motode tunai, non-tunai sampai dengan cicilan dengan jangka waktu 1 - 12 Bulan. 
+              3. <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a> memberikan kemudahan bertransaksi yang akan membantu penjual jasa meningkatkan penjualan jasanya melalui motode tunai, non-tunai sampai dengan cicilan dengan jangka waktu 1 - 12 Bulan. 
               <br/>
-              4. Isu keamanan bertransaksi yang kerap jadi permasalahan transaksi online, kini bisa diselesaikan melalui Sidebeep. Karena Sidebeep akan menjadi pihak ketiga yang akan mengawasi transaksi setiap penggunanya. 
+              4. Isu keamanan bertransaksi yang kerap jadi permasalahan transaksi online, kini bisa diselesaikan melalui Sidebeep. Karena <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a> akan menjadi pihak ketiga yang akan mengawasi transaksi setiap penggunanya. 
               <br/>
-              5. Sidebeep merupakan partner bisnis jasa yang tepat bagi Anda. Dimana Sidebeep akan membantu setiap penjual jasa bisa lebih fokus dalam menjaga kualitas jasanya tanpa perlu repot mengurus sisi pemasaran dan pengembangan digital. 
+              5. <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a> merupakan partner bisnis jasa yang tepat bagi Anda. Dimana <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a> akan membantu setiap penjual jasa bisa lebih fokus dalam menjaga kualitas jasanya tanpa perlu repot mengurus sisi pemasaran dan pengembangan digital. 
               <br/>
               </p>
             </div>
@@ -51,7 +51,7 @@
               </h3>
               <p>
                 <br/>
-                Setelah install aplikasi Sidebeep segera lakukan Registrasi.
+                Setelah install aplikasi <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a> segera lakukan Registrasi.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/be_sider.php">Selengkapnya menjadi sider</a>
@@ -64,7 +64,7 @@
               </h3>
               <p>
                 <br/>
-                Setelah berhasil melakukan <b>Registrasi</b>, segera lengkapi <b>Data Diri</b> dengan mengisi beberapa pertanyaan dan jangan lupa mengisi persetujuan <b>Term and Condition</b>. 
+                Setelah berhasil melakukan <a class="subLink" href="#">Registrasi</a>, segera lengkapi <a class="subLink" href="#">Data Diri</a> dengan mengisi beberapa pertanyaan dan jangan lupa mengisi persetujuan <a class="subLink" href="#">Term and Condition</a>. 
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/completing_information.php">Selengkapnya mengenai kelengkapan data diri</a>
@@ -76,7 +76,7 @@
                 Verifikasi nomor handphone
               </h3>
               <p>
-                <br/>Pihak Sidebeep melakukan verifikasi dengan menelpon nomor yang didaftarkan. Nomor handphone Anda telah selesai verifikasi apabila mendapatkan notifikasi verification completed.
+                <br/>Pihak <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a> melakukan verifikasi dengan menelpon nomor yang didaftarkan. Nomor handphone Anda telah selesai verifikasi apabila mendapatkan notifikasi verification completed.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/verification_mobile_phone.php">Selengkapnya mengenai verifikasi nomor handphone</a>
@@ -88,7 +88,7 @@
                 Pindah ke mode Sider
               </h3>
               <p>
-                <br/>Masuk ke panel kanan atas aplikasi Sidebeep dan geser mode menjadi sell services. Setelah muncul popup banner pilih join. 
+                <br/>Masuk ke panel kanan atas aplikasi <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a> dan geser mode menjadi sell services. Setelah muncul popup banner pilih join. 
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/switch_mode_sider.php">Selengkapnya mengenai per Pindahan ke mode Sider</a>
@@ -101,7 +101,7 @@
               </h3>
               <p>
                 <br/>
-                Demi tujuan keamanan calon pelanggan jasa Anda dan sesama pengguna Sidebeep, lakukan <b>Verifikasi</b> dengan menyetorkan KTP Anda.
+                Demi tujuan keamanan calon pelanggan jasa Anda dan sesama pengguna Sidebeep, lakukan <a class="subLink" href="#">Verifikasi</a> dengan menyetorkan KTP Anda.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/verification_identity.php">Selengkapnya mengenai verifikasi</a>
@@ -114,7 +114,7 @@
               </h3>
               <p>
                 <br/>
-                Proses pembuatan <b>Profil Picture</b> bisa dilakukan dengan mengunduh file dari galeri handphone atau pun langsung menggunakan kamera.
+                Proses pembuatan <a class="subLink" href="#">Profil Picture</a> bisa dilakukan dengan mengunduh file dari galeri handphone atau pun langsung menggunakan kamera.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/profile_picture.php">Selengkapnya mengenai Profile picture</a>
@@ -127,7 +127,7 @@
               </h3>
               <p>
                 <br/>
-                Segera buat jasa Anda dengan melengkapi beberapa langkah seperti <b>Choose Category Services</b>, pilih jenis layanan jasa <b>Fix</b> atau <b>Flex</b> dan tentukan lokasi jasa Anda di <b>Choose Location</b>.
+                Segera buat jasa Anda dengan melengkapi beberapa langkah seperti <a class="subLink" href="#">Choose Category Services</a>, pilih jenis layanan jasa <a class="subLink" href="term_of_detail/fix.php">Fix</a> atau <a class="subLink" href="term_of_detail/flex.php">Flex</a> dan tentukan lokasi jasa Anda di <a class="subLink" href="#">Choose Location</a>.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/create_service.php">Selengkapnya mengenai membuat jasa</a>
@@ -140,7 +140,7 @@
               </h3>
               <p>
                 <br/>
-                Apabila jasa Anda memiliki penawaran berikutnya yang lebih detail atau spesifik masukan ke dalam menu <b>Service Menus</b>.
+                Apabila jasa Anda memiliki penawaran berikutnya yang lebih detail atau spesifik masukan ke dalam menu <a class="subLink" href="#">Service Menus</a>.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/add_more_service.php">Selengkapnya mengenai penambahan menu jasa</a>
@@ -153,7 +153,7 @@
               </h3>
               <p>
                 <br/>
-                Untuk bisa menjual jasa kepada <b>Beeper</b> pastikan akun Anda telah melakukan <b>Verifikasi</b> dan jasa yang dibuat telah Aktif.
+                Untuk bisa menjual jasa kepada <a class="subLink" href="#">Beeper</a> pastikan akun Anda telah melakukan <a class="subLink" href="#">Verifikasi</a> dan jasa yang dibuat telah Aktif.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/activating_service.php">Selengkapnya mengenai pengaktifan jasa</a>

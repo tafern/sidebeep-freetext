@@ -32,10 +32,10 @@
               <p>
                 <img class="imageCharacter" src="../assets/images/find_service.png">
                 <br/>
-                Anda bisa mencari jasa dari para Sider terpercaya yang ada di Sidebeep dengan menggunakan <b>Search</b>, berdasarkan nama <b>Sider</b>, jenis jasa atau kategori jasa.
+                Anda bisa mencari jasa dari para Sider terpercaya yang ada di Sidebeep dengan menggunakan <a class="subLink" href="">Search</a>, berdasarkan nama <a class="subLink" href="../term_of_detail/sider.php">Sider</a>, jenis jasa atau kategori jasa.
                 <br/>
                 <br/>
-                Dengan menggunakan fitur search Anda akan lebih dimudahkan dalam menemukan jenis jasa gaya hidup yang Anda inginkan. Fitur ini sekaligus membantu Anda untuk menemukan jasa berdasarkan kategori, nama <b>SIDER</b> atau pun jasa <b>SIDER</b> paling popular.   
+                Dengan menggunakan fitur search Anda akan lebih dimudahkan dalam menemukan jenis jasa gaya hidup yang Anda inginkan. Fitur ini sekaligus membantu Anda untuk menemukan jasa berdasarkan kategori, nama <a class="subLink" href="../term_of_detail/sider.php">Sider</a> atau pun jasa <a class="subLink" href="../term_of_detail/sider.php">Sider</a> paling popular.   
               </p>
             </div>
           </div>

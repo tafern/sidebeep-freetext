@@ -30,7 +30,7 @@
                 Profile picture
               </h3>
               <p>
-                Proses pembuatan <b>Profil Picture</b> bisa dilakukan dengan mengunduh file dari galeri handphone atau pun langsung menggunakan kamera.
+                Proses pembuatan <a class="subLink" href="#">Profil Picture</a> bisa dilakukan dengan mengunduh file dari galeri handphone atau pun langsung menggunakan kamera.
                 <br/>
                 <img class="imageCharacter" src="../assets/images/sider_stepper/profile_picture_1.png">
                 <br/>

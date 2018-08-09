@@ -32,10 +32,10 @@
               <p>
                 <img class="imageCharacter" src="../assets/images/location.png">
                 <br/>
-                Ketahui lokasi SIDER atau tentukan lokasi dimana <b>SIDER</b> akan memberikan layanan jasanya kepada Anda di halaman <b>LOCATION</b>.
+                Ketahui lokasi SIDER atau tentukan lokasi dimana <a class="subLink" href="../term_of_detail/sider.php">Sider</a> akan memberikan layanan jasanya kepada Anda di halaman <a class="subLink" href="">Location</a>.
                 <br/>
                 <br/>
-                Apabila menginginkan jasa Sider datang ke lokasi Anda, tap kolom <b>your location</b>, lalu isi kolom <b>search location</b> sesuai dengan lokasi dimana Anda menginginkan jasa layanan Sider didapatkan. Setelah menentukan lokasi yang diingikan, gunakan lokasi tersebut dengan memilih <b>Use This Location</b>. Apabila ingin menambahkan catatan lain seputar lokasi Anda ini pada kolom <b>Additional Information for Your Location</b>, lalu pilih <b>Next</b>.
+                Apabila menginginkan jasa Sider datang ke lokasi Anda, tap kolom <a class="subLink" href="">Your Location</a>, lalu isi kolom <a class="subLink" href="">Search Location</a> sesuai dengan lokasi dimana Anda menginginkan jasa layanan Sider didapatkan. Setelah menentukan lokasi yang diingikan, gunakan lokasi tersebut dengan memilih <a class="subLink" href="">Use This Location</a>. Apabila ingin menambahkan catatan lain seputar lokasi Anda ini pada kolom <a class="subLink" href="">Additional Information for Your Location</a>, lalu pilih <a class="subLink" href="">Next</a>.
    
               </p>
             </div>

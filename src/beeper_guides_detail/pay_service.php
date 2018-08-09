@@ -32,10 +32,10 @@
               <p>
                 <img class="imageCharacter" src="../assets/images/payment.png">
                 <br/>
-                Lakukan <b>PAYMENT</b> dengan memilih Payment Method, lalu <b>CREATE REQUEST</b>. Setelah mendapatkan konfirmasi dari <b>SIDER</b> segera lakukan pembayaran.
+                Lakukan <a class="subLink" href="">PAYMENT</a> dengan memilih Payment Method, lalu <a class="subLink" href="">CREATE REQUEST</a>. Setelah mendapatkan konfirmasi dari <a class="subLink" href="../term_of_detail/sider.php">Sider</a> segera lakukan pembayaran.
                 <br/>
                 <br/>
-                <b>Payment</b> di SIDEBEEP bisa dilakukan dengan dua jenis metode yaitu dengan <b>cash</b> setelah servis selesai atau dengan <b>cashless</b> sebelum servis dimulai. Untuk metode cashless SIDEBEEP menyediakan fasilitas pembayaran menggunakan bank transfer, kartu kredit dan cicilan tanpa kartu kredit dengan jangka waktu 1 sampai 12 bulan. Agar pesanan jasa Anda segera diproses segera lakukan pembayaran dengan durasi waktu maksimal 3 jam setelah pesan jasa dikonfirmasi Sider. 
+                <a class="subLink" href="">Payment</a> di SIDEBEEP bisa dilakukan dengan dua jenis metode yaitu dengan <a class="subLink" href="">cash</a> setelah servis selesai atau dengan <a class="subLink" href="">Cashless</a> sebelum servis dimulai. Untuk metode Cashless SIDEBEEP menyediakan fasilitas pembayaran menggunakan bank transfer, kartu kredit dan cicilan tanpa kartu kredit dengan jangka waktu 1 sampai 12 bulan. Agar pesanan jasa Anda segera diproses segera lakukan pembayaran dengan durasi waktu maksimal 3 jam setelah pesan jasa dikonfirmasi Sider. 
 
    
               </p>
