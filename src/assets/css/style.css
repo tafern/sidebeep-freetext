@@ -105,7 +105,7 @@
           }
 
           .minHeight2 {
-              min-height: 200px;
+              min-height: 250px;
           }
 
           .minHeight2 {
@@ -121,6 +121,5 @@
           }
 
           .subLink {
-            font-weight: bold; 
+            font-weight: bold;
           }
-
