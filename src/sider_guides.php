@@ -167,7 +167,7 @@
               </h3>
               <p>
                 <br/>
-                Untuk menerima pesanan jasa, pastikan saldo <b>Beep Credit</b> Sider mencukupi dan telah merubah mode <b>Beeper</b> menjadi <b>Sider</b>. Anda akan mendapatkan <b>Notifikasi</b> apabila ada penawaran pesanan jasa dari <b>Beeper</b> masuk.
+                Untuk menerima pesanan jasa, pastikan saldo <b>Beep Credit</b> Sider mencukupi dan telah merubah mode <a class="subLink" href="term_of_detail/beeper.php">Beeper</a> menjadi <a class="subLink" href="term_of_detail/sider.php">Sider</a>. Anda akan mendapatkan <b>Notifikasi</b> apabila ada penawaran pesanan jasa dari <a class="subLink" href="term_of_detail/beeper.php">Beeper</b> masuk.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/receive_order.php">Selengkapnya mengenai Terima pesanan jasa</a>
@@ -181,7 +181,7 @@
               </h3>
               <p>
                 <br/>
-                Apabila menerima pesanan Jasa Fix berarti Beeper telah mengetahui dan menyetujui rincian jadwal, durasi pengerjaan jasa dan harga jasa Anda.
+                Apabila menerima pesanan Jasa <a class="subLink" href="term_of_detail/fix.php"> berarti <a class="subLink" href="term_of_detail/beeper.php">Beeper</a> telah mengetahui dan menyetujui rincian jadwal, durasi pengerjaan jasa dan harga jasa Anda.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/receive_order_fix.php">Selengkapnya mengenai Terima pesanan jasa</a>
@@ -195,7 +195,7 @@
               </h3>
               <p>
                 <br/>
-                Diskusikan rincian pesanan jasa Anda dengan Beeper melalui fitur Chat. Apabila telah memiliki kesepakatan mengenai detail pengerjaan, durasi dan harga segera buat penawaran Create Quotation dari menu servis Anda atau buat menu servis baru.
+                Diskusikan rincian pesanan jasa Anda dengan <a class="subLink" href="#">Beeper</a> melalui fitur Chat. Apabila telah memiliki kesepakatan mengenai detail pengerjaan, durasi dan harga segera buat penawaran Create Quotation dari menu servis Anda atau buat menu servis baru.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/receive_order_flex.php">Selengkapnya mengenai Terima pesanan Jasa Flex</a>
@@ -209,7 +209,7 @@
               </h3>
               <p>
                 <br/>
-                Apabila mendapatkan notifikasi New Order berarti Beeper telah melakukan pembayaran baik cash atau non cash, berarti Anda harus segera menyiapkan atau mengerjakan pesanan jasa Beeper dimulai dengan melakukan Start dan diakhiri Finish.
+                Apabila mendapatkan notifikasi New Order berarti <a class="subLink" href="#">Beeper</a> telah melakukan pembayaran baik cash atau non cash, berarti Anda harus segera menyiapkan atau mengerjakan pesanan jasa <a class="subLink" href="#">Beeper</a> dimulai dengan melakukan Start dan diakhiri Finish.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/notification_order_fix.php">Selengkapnya mengenai Notifikasi order jasa Fix</a>
@@ -223,7 +223,7 @@
               </h3>
               <p>
                 <br/>
-                Apabila mendapatkan notifikasi New Order berarti Beeper telah melakukan pembayaran secara non cash, berarti Anda harus segera mengerjakan pesanan jasa Beeper dan menggunakan Finish saat jasa pesanan telah selesai.
+                Apabila mendapatkan notifikasi New Order berarti <a class="subLink" href="#">Beeper</a> telah melakukan pembayaran secara non cash, berarti Anda harus segera mengerjakan pesanan jasa <a class="subLink" href="#">Beeper</a> dan menggunakan Finish saat jasa pesanan telah selesai.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/notification_order_flex.php">Selengkapnya mengenai Notifikasi order jasa Flex</a>
@@ -237,7 +237,7 @@
               </h3>
               <p>
                 <br/>
-                Apabila ingin menambahkan menu servis baru untuk penawaran jasa Flex gunakan Add Service, lalu pilih Create New Service dan buat servis baru dengan melengkapi kolom My Service.
+                Apabila ingin menambahkan menu servis baru untuk penawaran jasa <a class="subLink" href="term_of_detail/flex.php">Flex</a> gunakan Add Service, lalu pilih Create New Service dan buat servis baru dengan melengkapi kolom My Service.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/new_offering_menu_for_flex.php">Selengkapnya mengenai menu baru untuk penawaran jasa Flex</a>
@@ -251,7 +251,7 @@
               </h3>
               <p>
                 <br/>
-                Apabila penawaran jasa Flex sudah dibuat segera simpan dan kirim melalui Save & Send kepada Beeper.
+                Apabila penawaran jasa <a class="subLink" href="term_of_detail/flex.php">Flex</a> sudah dibuat segera simpan dan kirim melalui Save & Send kepada <a class="subLink" href="#">Beeper</a>.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/send_quotation_flex.php">Selengkapnya mengenai simpan dan kirim penawaran jasa Flex</a>
