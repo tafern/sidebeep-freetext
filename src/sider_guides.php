@@ -160,7 +160,7 @@
                 Pilih FIX apabila jasa Anda memiliki taksiran harga yang pasti dan proses pengerjaan kurang dari 1 hari. Contoh jasa pijat atau cuci sneakers. Lalu lengkapi rincian jasa Anda mulai dari gambar, judul dan deskripsi.
                 <br/>
                 <br/>
-                <a class="c-btn c-btn--small" href="sider_guides_detail/create_service.php">Selengkapnya mengenai membuat jasa</a>
+                <a class="c-btn c-btn--small" href="sider_guides_detail/fix_service.php">Selengkapnya mengenai membuat jasa</a>
               </p>
             </div>
 
@@ -174,7 +174,7 @@
                 Pilih FIex apabila jasa Anda membutuhkan diskusi dengan Beeper untuk menentukan rincian lingkup kerja, durasi pengerjaan dan harga jasa. Contoh jasa pembuatan tato, kustom motor atau reparasi sepatu.
                 <br/>
                 <br/>
-                <a class="c-btn c-btn--small" href="sider_guides_detail/create_service.php">Selengkapnya mengenai membuat jasa</a>
+                <a class="c-btn c-btn--small" href="sider_guides_detail/flex_service.php">Selengkapnya mengenai membuat jasa</a>
               </p>
             </div>
 

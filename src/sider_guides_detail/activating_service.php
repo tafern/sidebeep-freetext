@@ -26,7 +26,7 @@
           <div class="row">
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">9</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">12</div>
                 Aktifkan jasa
               </h3>
               <p>

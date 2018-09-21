@@ -37,6 +37,45 @@
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">1</div>
+                Lengkapi data diri
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/find_service.png"> -->
+                <br/>
+                Setelah instal aplikasi Sidebeep segera lakukan registrasi dengan menggunakan alamat email, nomor telepon dan buat kata sandi. 
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/lengkapi_data_diri.php">Selengkapnya mengenai kelengkapan data diri</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">2</div>
+                Verifikasi No Telepon
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/find_service.png"> -->
+                <br/>
+                Pihak Sidebeep melakukan verifikasi dengan menelpon nomor yang didaftarkan. Nomor handphone Anda telah selesai verifikasi, apabila mendapatkan notifikasi verification completed. 
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/verifikasi_telepon.php">Selengkapnya mengenai Verifikasi No Telepon</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">3</div>
+                Verifikasi email
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/find_service.png"> -->
+                <br/>
+                Setiap Beeper harus melewati proses verifikasi untuk bisa melakukan aktivitas memesan jasa di aplikasi Sidebeep. 
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/verifikasi_email.php">Selengkapnya mengenai Verifikasi email</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">4</div>
                 Cari jasa
               </h3>
               <p>
@@ -50,7 +89,7 @@
             </div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">2</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">5</div>
                 Chat dengan penyedia jasa
               </h3>
               <p>
@@ -64,7 +103,21 @@
             </div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">3</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">6</div>
+                Pesan Jasa Fix
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/chat.png"> -->
+                <br/>
+                Jasa Fix adalah jasa yang tarifnya telah ditentukan di awal tanpa perlu didiskusikan terlebih dahulu oleh Sider dan Beeper dan memiliki durasi pengerjaan tak kurang dari 1 hari.  Contoh jasa Fix : jasa pijat, potong rambut. 
+                <br/>
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/order_service_fix.php">Selengkapnya mengenai chat</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">7</div>
                 Pesan jasa
               </h3>
               <p>
@@ -77,7 +130,7 @@
             </div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">4</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">8</div>
                 Atur waktu pesan jasa
               </h3>
               <p>
@@ -90,7 +143,7 @@
             </div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">5</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">9</div>
                 Tentukan lokasi pesan jasa
               </h3>
               <p>
@@ -104,22 +157,155 @@
             </div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">6</div>
-                Bayar jasa
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">10</div>
+                Bayar jasa fix
               </h3>
               <p>
                 <img class="imageCharacter" src="assets/images/payment.png">
                 <br/>
-                Lakukan <a class="subLink" href="#">Payment</a> dengan memilih Payment Method, lalu <a class="subLink" href="#">Create Request</a>. Setelah mendapatkan konfirmasi dari <a class="subLink" href="term_of_detail/sider.php">Sider</a> segera lakukan pembayaran.
+                Lakukan Payment dengan memilih Payment Method, lalu Create Request. Pada jasa Fix ada 2 metode pembayaran yang bisa dilakukan cash atau non cash. Setelah mendapatkan konfirmasi dari Sider segera lakukan pembayaran.
                 <br/>
                 <br/>
-                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_service.php">Selengkapnya mengenai pembayaran</a>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_service.php">Selengkapnya mengenai Bayar jasa fix</a>
               </p>
             </div>
-          </div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">7</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">11</div>
+                Bayar jasa fix dengan cash
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
+                <br/>
+                Pembayaran dengan metode Cash hanya berlaku untuk jasa Fix. Pembayaran dengan metode cash bisa dilakukan setelah jasa fix yang dipesan berakhir.
+                <br/>
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_fix_service_with_cash.php">Selengkapnya mengenai Bayar jasa fix dengan cash</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">12</div>
+                Bayar jasa fix dengan non cash
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
+                <br/>
+                Pembayaran non cash juga berlaku untuk jasa Fix. Setelah order di konfirmasi oleh Sider, Anda akan diminta melakukan pembayaran dalam jangka waktu maksimal 48 jam sebelum jasa dikerjakan.
+                <br/>
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_fix_service_with_non_cash.php">Selengkapnya mengenai Bayar jasa fix dengan non cash</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">13</div>
+                Bayar non cash dengan virtual account
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
+                <br/>
+                Apabila Anda memilih menggunakan metode transfer virtual account untuk pembayaran non-cash, pilih Bank yang ingin digunakan. Kemudian Anda akan mendapatkan kode pembayaran. Gunakan kode pembayaran tersebut untuk membayar pesanan jasa melalui ATM atau M Banking dengan memilih menu TRANSFER lalu pilih VIRTUAL ACCOUNT. Masukan kode pembayaran virtual account, lalu Anda akan diminta melakukan pembayaran sesuai dengan nilai transaksi.
+                <br/>
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_fix_service_with_virtual_account.php">Selengkapnya mengenai Bayar non cash dengan virtual account</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">14</div>
+                Bayar dengan Kartu Kredit
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
+                <br/>
+                Masuk ke Payment pilih Payment Method Credit Card, lengkapi nomor kartu kredit, masa berlaku kartu kredit dan kode CVV kartu kredit Anda, pilih Pay. Masuk ke halaman verifikasi sms OTP dan masukan kode OTP melalui nomor ponsel.                
+                <br/>
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_fix_service_with_credit_card.php">Selengkapnya mengenai Bayar dengan Kartu Kredit</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">15</div>
+                Bayar dengan Kredivo
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
+                <br/>
+                Masuk ke Payment, pilih Kredivo dan pilih Pay. Untuk menyelesaikan pembayaran menggunakan Kredivo segera login atau daftar. Masukan nomor ponsel Anda serta PIN Kredivo. Tunggu notifikasi tanda pembayaran Anda sedang diproses Kredivo.                
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_fix_service_with_kredivo.php">Selengkapnya mengenai Bayar dengan Kredivo</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">16</div>
+                Pesan Jasa Flex
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
+                <br/>
+                Pilih Flex apabila jasa Anda membutuhkan diskusi dengan Sider untuk menentukan rincian lingkup kerja, durasi pengerjaan dan harga jasa. Contoh jasa pembuatan tato, kustom motor atau reparasi sepatu.                
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/order_service_flex.php">Selengkapnya mengenai Pesan Jasa Flex</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">17</div>
+                Bayar jasa flex
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
+                <br/>
+                Setelah Anda menyetujui QUOTATION dari Sider untuk jasa Anda, segera lakukan pembayaran dengan metode non-cash dapat menggunakan Credit Card, Virtual Account atau pun Kredivo.
+                <br/>
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_flex_service.php">Selengkapnya mengenai Bayar jasa flex</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">18</div>
+                Bayar jasa Flex dengan virtual account
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
+                <br/>
+                Pilih Bank yang ingin digunakan, kemudian Anda akan mendapatkan kode pembayaran. Gunakan kode pembayaran tersebut untuk membayar pesanan jasa melalui ATM atau M Banking dengan memilih menu TRANSFER lalu pilih VIRTUAL ACCOUNT. Masukan kode pembayaran virtual account, lalu Anda akan diminta melakukan pembayaran sesuai dengan nilai transaksi.
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_flex_service_with_virtual_account.php">Selengkapnya mengenai Bayar jasa Flex dengan virtual account</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">19</div>
+                Bayar Flex dengan Kartu Kredit
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
+                <br/>
+                Masuk ke Payment pilih Payment Method Credit Card, lengkapi nomor kartu kredit, masa berlaku kartu kredit dan kode CVV kartu kredit Anda, pilih Pay. Masuk ke halaman verifikasi sms OTP dan masukan kode OTP melalui nomor ponsel.
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_flex_service_with_credit_card.php">Selengkapnya mengenai Bayar Flex dengan Kartu Kredit</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">20</div>
+                Bayar Flex dengan Kredivo
+              </h3>
+              <p>
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
+                <br/>
+                Masuk ke Payment, pilih Kredivo dan pilih Pay. Untuk menyelesaikan pembayaran menggunakan Kredivo segera login atau daftar. Masukan nomor ponsel Anda serta PIN Kredivo. Tunggu notifikasi tanda pembayaran Anda sedang diproses Kredivo.
+                <br/>
+                <a class="c-btn c-btn--small" href="beeper_guides_detail/pay_flex_service_with_kredivo.php">Selengkapnya mengenai Bayar Flex dengan Kredivo</a>
+              </p>
+            </div>
+            <div class="col-md-4 minHeight">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">21</div>
                 Rating & review jasa
               </h3>
               <p>
