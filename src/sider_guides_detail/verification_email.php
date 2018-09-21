@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Bantuan mengenai pindah mode sider.</title>
+        <title>Bantuan mengenai verifikasi.</title>
         <meta name="description" content="Bantuan mengenai menjadi Sider.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -20,24 +20,23 @@
       <div class="container">
 
           <div class="header">
-            <h1 class="header-title">Bantuan mengenai pindah ke mode Sider.</h1>
+            <h1 class="header-title">Bantuan mengenai verifikasi email.</h1>
           </div>
 
           <div class="row">
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">4</div>
-                Pindah ke mode Sider
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">6</div>
+                Verifikasi Email
               </h3>
               <p>
-                Masuk ke panel kanan atas aplikasi Sidebeep dan geser mode menjadi sell services. Setelah muncul popup banner pilih join.
+                Setiap Sider harus melewati proses verifikasi untuk bisa melakukan aktivitas menjual jasa di aplikasi Sidebeep.
                 <br/>
-                <img class="imageCharacter" src="../assets/images/sider_stepper/pindah_mode_1.png">
+                <img class="imageCharacter" src="../assets/images/sider_stepper/verifikasi_email_1.png">
                 <br/>
-                <img class="imageCharacter" src="../assets/images/sider_stepper/pindah_mode_2.png">
+                <img class="imageCharacter" src="../assets/images/sider_stepper/verifikasi_email_2.png">
                 <br/>
-                  Pindah ke mode <a class="subLink" href="../term_of_detail/sider.php">Sider</a>
-                  Semua akun saat masuk ke aplikasi Sidebeep akan terdaftar menjadi <a class="subLink" href="../term_of_detail/beeper.php">Beeper</a>. Untuk itu <a class="subLink" href="../term_of_detail/sider.php">Sider</a> harus merubah settingan jenis pengguna aplikasi ke mode <a class="subLink" href="../term_of_detail/sider.php">Sider</a>. 
+                Proses verifikasi dapat dilakukan Sider dengan cara membuka email yang telah didaftarkan di aplikasi Sidebeep dengan cara membuka email tersebut. 
               </p>
             </div>
           </div>
@@ -47,7 +46,6 @@
       <!-- bootstrap and jquery scripts -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-
 
     </body>
 </html>

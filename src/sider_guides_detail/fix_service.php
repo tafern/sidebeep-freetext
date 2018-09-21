@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Bantuan mengenai pindah mode sider.</title>
-        <meta name="description" content="Bantuan mengenai menjadi Sider.">
+        <title>Bantuan mengenai membuat jasa.</title>
+        <meta name="description" content="Bantuan mengenai membuat jasa.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link href='http://fonts.googleapis.com/css?family=Quattrocento+Sans:700' rel='stylesheet' type='text/css'>
@@ -20,24 +20,24 @@
       <div class="container">
 
           <div class="header">
-            <h1 class="header-title">Bantuan mengenai pindah ke mode Sider.</h1>
+            <h1 class="header-title">Bantuan mengenai jasa fix.</h1>
           </div>
 
           <div class="row">
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">4</div>
-                Pindah ke mode Sider
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">7</div>
+                Jasa Fix
               </h3>
               <p>
-                Masuk ke panel kanan atas aplikasi Sidebeep dan geser mode menjadi sell services. Setelah muncul popup banner pilih join.
+                Pilih FIX apabila jasa Anda memiliki taksiran harga yang pasti dan proses pengerjaan kurang dari 1 hari. Contoh jasa pijat atau cuci sneakers. Lalu lengkapi rincian jasa Anda mulai dari gambar, judul dan deskripsi.
                 <br/>
-                <img class="imageCharacter" src="../assets/images/sider_stepper/pindah_mode_1.png">
+                <img class="imageCharacter" src="../assets/images/sider_stepper/fix_service.png">
                 <br/>
-                <img class="imageCharacter" src="../assets/images/sider_stepper/pindah_mode_2.png">
                 <br/>
-                  Pindah ke mode <a class="subLink" href="../term_of_detail/sider.php">Sider</a>
-                  Semua akun saat masuk ke aplikasi Sidebeep akan terdaftar menjadi <a class="subLink" href="../term_of_detail/beeper.php">Beeper</a>. Untuk itu <a class="subLink" href="../term_of_detail/sider.php">Sider</a> harus merubah settingan jenis pengguna aplikasi ke mode <a class="subLink" href="../term_of_detail/sider.php">Sider</a>. 
+                Jasa Fix bisa menerima pembayaran baik cash atau pun non cash. 
+. 
+
               </p>
             </div>
           </div>
@@ -47,7 +47,6 @@
       <!-- bootstrap and jquery scripts -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-
 
     </body>
 </html>

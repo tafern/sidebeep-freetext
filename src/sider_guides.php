@@ -88,12 +88,13 @@
                 Pindah ke mode Sider
               </h3>
               <p>
-                <br/>Masuk ke panel kanan atas aplikasi <a class="subLink" href="term_of_detail/sidebeep.php">Sidebeep</a> dan geser mode menjadi sell services. Setelah muncul popup banner pilih join.
+                <br/>Swipe keatas menu yang ada dibawah dan geser mode menjadi sell services. Setelah muncul popup banner pilih join.
                 <br/>
                 <br/>
                 <a class="c-btn c-btn--small" href="sider_guides_detail/switch_mode_sider.php">Selengkapnya mengenai per Pindahan ke mode Sider</a>
               </p>
             </div>
+
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">5</div>
@@ -107,9 +108,24 @@
                 <a class="c-btn c-btn--small" href="sider_guides_detail/verification_identity.php">Selengkapnya mengenai verifikasi</a>
               </p>
             </div>
+
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">6</div>
+                Verifikasi Email
+              </h3>
+              <p>
+                <br/>
+                Setiap Sider harus melewati proses verifikasi untuk bisa melakukan aktivitas menjual jasa di aplikasi Sidebeep.
+                <br/>
+                <br/>
+                <a class="c-btn c-btn--small" href="sider_guides_detail/verification_email.php">Selengkapnya mengenai verifikasi email</a>
+              </p>
+            </div>
+
+            <div class="col-md-4 minHeight2">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">7</div>
                 Profile picture
               </h3>
               <p>
@@ -122,7 +138,7 @@
             </div>
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">7</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">8</div>
                 Buat jasa
               </h3>
               <p>
@@ -133,9 +149,38 @@
                 <a class="c-btn c-btn--small" href="sider_guides_detail/create_service.php">Selengkapnya mengenai membuat jasa</a>
               </p>
             </div>
+
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">8</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">9</div>
+                Jasa Fix
+              </h3>
+              <p>
+                <br/>
+                Pilih FIX apabila jasa Anda memiliki taksiran harga yang pasti dan proses pengerjaan kurang dari 1 hari. Contoh jasa pijat atau cuci sneakers. Lalu lengkapi rincian jasa Anda mulai dari gambar, judul dan deskripsi.
+                <br/>
+                <br/>
+                <a class="c-btn c-btn--small" href="sider_guides_detail/create_service.php">Selengkapnya mengenai membuat jasa</a>
+              </p>
+            </div>
+
+            <div class="col-md-4 minHeight2">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">10</div>
+                Jasa Flex
+              </h3>
+              <p>
+                <br/>
+                Pilih FIex apabila jasa Anda membutuhkan diskusi dengan Beeper untuk menentukan rincian lingkup kerja, durasi pengerjaan dan harga jasa. Contoh jasa pembuatan tato, kustom motor atau reparasi sepatu.
+                <br/>
+                <br/>
+                <a class="c-btn c-btn--small" href="sider_guides_detail/create_service.php">Selengkapnya mengenai membuat jasa</a>
+              </p>
+            </div>
+
+            <div class="col-md-4 minHeight2">
+              <h3 class="u-txt--xlarge u-txt--light">
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">11</div>
                 Tambahkan menu jasa
               </h3>
               <p>
@@ -148,7 +193,7 @@
             </div>
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">9</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">12</div>
                 Aktifkan jasa
               </h3>
               <p>
@@ -162,7 +207,7 @@
 
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">10</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">13</div>
                 Terima pesanan jasa
               </h3>
               <p>
@@ -176,7 +221,7 @@
 
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">11</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">14</div>
                 Terima pesanan jasa Fix
               </h3>
               <p>
@@ -190,7 +235,7 @@
 
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">12</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">15</div>
                 Terima pesanan Jasa Flex
               </h3>
               <p>
@@ -204,7 +249,7 @@
 
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">13</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">16</div>
                 Notifikasi order jasa Fix
               </h3>
               <p>
@@ -218,7 +263,7 @@
 
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">14</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">17</div>
                 Notifikasi order jasa Flex
               </h3>
               <p>
@@ -232,7 +277,7 @@
 
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">15</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">18</div>
                 Buat menu baru untuk penawaran jasa Flex
               </h3>
               <p>
@@ -246,7 +291,7 @@
 
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">16</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">19</div>
                 Simpan dan kirim penawaran jasa Flex
               </h3>
               <p>
@@ -260,7 +305,7 @@
 
             <div class="col-md-4 minHeight2">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">17</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">20</div>
                 Withdrawal Money
               </h3>
               <p>

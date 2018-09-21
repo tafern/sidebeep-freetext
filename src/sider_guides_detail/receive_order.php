@@ -36,8 +36,6 @@
                 <br/>
                 <img class="imageCharacter" src="../assets/images/sider_stepper/terima_pesanan_jasa_2.png">
                 <br/>
-                <img class="imageCharacter" src="../assets/images/sider_stepper/terima_pesanan_jasa_3.png">
-                <br/>
                 <br/>
                 Minimum Saldo beep credit yang harus dimiliki Sider untuk menerima pesanan jasa dari Sider adalah Rp. 10.000 dan pembelian pembelian beep credit bisa dilakukan melalui Sidebeep.
               </p>
