@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">21</div>
@@ -38,6 +39,7 @@
                 Melalui <a class="subLink" href="">Rating & Review</a> berarti Anda telah berpartisipasi mengenalkan jasa dan memberikan tingkat kepuasan dari para <a class="subLink" href="../term_of_detail/sider.php">Sider</a> kepada komunitas <a class="subLink" href="../term_of_detail/sidebeep.php">Sidebeep</a> lainnya.
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

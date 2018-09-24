@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">6</div>
@@ -39,6 +40,7 @@
                 Proses verifikasi dapat dilakukan Sider dengan cara membuka email yang telah didaftarkan di aplikasi Sidebeep dengan cara membuka email tersebut. 
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

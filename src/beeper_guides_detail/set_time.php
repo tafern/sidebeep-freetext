@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">4</div>
@@ -38,6 +39,7 @@
                 Ini adalah jadwal yang disediakan <a class="subLink" href="../term_of_detail/sider.php">Sider</a> untuk menerima pemesanan jasa dari pelanggan jasa atau <a class="subLink" href="#">Bepeer</a>. Jadwal yang bisa Anda pilih merupakan waktu dan jam dimana <a class="subLink" href="../term_of_detail/sider.php">Sider</a> masih bersedia menerima pemesanan jasa. Untuk lebih memaksimalkan hasil pemesanan, disarankan agar melakukan pemesanan minimum 3 jam sebelum Anda menginginkan layanan jasa <a class="subLink" href="../term_of_detail/sider.php">Sider</a>.    
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

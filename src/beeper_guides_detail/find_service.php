@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">1</div>
@@ -38,6 +39,7 @@
                 Dengan menggunakan fitur search Anda akan lebih dimudahkan dalam menemukan jenis jasa gaya hidup yang Anda inginkan. Fitur ini sekaligus membantu Anda untuk menemukan jasa berdasarkan kategori, nama <a class="subLink" href="../term_of_detail/sider.php">Sider</a> atau pun jasa <a class="subLink" href="../term_of_detail/sider.php">Sider</a> paling popular.   
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

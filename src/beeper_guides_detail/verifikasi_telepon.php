@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">2</div>
@@ -38,6 +39,7 @@
                 Di Sidebeep setiap akun harus terdaftar menggunakan satu nomor handphone untuk memastikan keamanan. Verifikasi nomor handphone juga bisa dilakukan dengan menggunakan SMS OTP. 
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

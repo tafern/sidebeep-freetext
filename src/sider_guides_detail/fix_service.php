@@ -25,6 +25,7 @@
 
           <div class="row">
             <div class="col-md-4 minHeight">
+            <div class="col-md-4"></div>
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">9</div>
                 Jasa Fix
@@ -40,6 +41,7 @@
 
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">5</div>
@@ -37,6 +38,7 @@
                 Untuk meminimalisir terjadinya masalah keamanan dan menciptakan kenyamanan <a href="../term_of_detail/beeper.php">Beeper</a> dalam memesan jasa proses verifikasi di Sidebeep memang dibuat seaman mungkin. Dimana Sider wajib menyertakan KTP saat mendaftar dan wajib melewati tahapan verifikasi dari internal tim Sidebeep. 
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

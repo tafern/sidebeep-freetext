@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">12</div>
@@ -40,6 +41,7 @@
                 Agar jasa bisa aktif segera lakukan verifikasi akun Anda dengan memenuhi syarat verifikasi dan menunggu pengecekan dari pihak Sidebeep paling lama 3 x 24 Jam. Setelah itu lakukan pengaktifan servis dengan masuk ke lama service, lalu pilih active. Pilih jasa yang ingin di aktifkan, lalu rubah status jasa dari Inactive menjadi Active. Apabila belum Active juga periksan akun dengan masuk ke halaman profile yang ada di kiri atas pastikan foto profile, alamat email, no handphone, kartu identitas Anda berstatus Verified. 
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

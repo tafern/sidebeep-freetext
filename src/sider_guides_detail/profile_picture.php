@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">7</div>
@@ -39,6 +40,7 @@
                 Sidebeep akan melakukan Verifikasi terhadap foto profil Anda dengan mencocokan foto KTP. Apabila dianggap sesuai maka Sidebeep akan merubah status Verifikasi foto profil menjadi Verified. 
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

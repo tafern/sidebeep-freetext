@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">12</div>
@@ -34,10 +35,9 @@
                 <br/>
                 Pembayaran non cash juga berlaku untuk jasa Fix. Setelah order di konfirmasi oleh Sider, Anda akan diminta melakukan pembayaran dalam jangka waktu maksimal 48 jam sebelum jasa dikerjakan.
                 <br/>
-                <br/>
-                eeeeeeeeeeeeeee
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

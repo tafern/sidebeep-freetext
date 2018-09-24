@@ -24,13 +24,14 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">20</div>
                 Withdrawal Money
               </h3>
               <p>
-                Apabila ingin menambahkan menu servis baru untuk penawaran jasa Flex gunakan Add Service, lalu pilih Create New Service dan buat servis baru dengan melengkapi kolom My Service.
+                Bagaimana cara melakukan pencairan pembayaran jasa anda melalui metode non cash lewat aplikasi sidebeep.
                 <br/>
                 Anda tinggal menghubungi <b>marketing@sidebeep.com</b> dan melengkapi informasi dibawah ini.
                 <br/>
@@ -44,6 +45,7 @@
                 <br/> -->
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>
