@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">3</div>
@@ -38,6 +39,7 @@
                 Gunakakan Create Request untuk menentukan jumlah jasa yang ingin didapatkan dari servis menu <a class="subLink" href="../term_of_detail/sider.php">Sider</a> lewat <a class="subLink" href="#">Create Request</a>. Untuk menentukan jumlah servis yang ingin dipesan Anda tinggal menggunakan (+) sesuai dengan jumlah yang dibutuhkan atau untuk melakukan perubahan mengurangi atau menghilangkan jumlah servis gunakan (-).
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

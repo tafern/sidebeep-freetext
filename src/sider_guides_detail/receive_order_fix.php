@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">14</div>
@@ -38,6 +39,7 @@
                 Segera terima pesanan jasa dengan Approve pesanan jasa dan Reject bila menolak menerima pesanan jasa. Atau jika ada hal lain yang ingin dibicarakan dengan calon Beeper segera gunakan Chat.
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">1</div>
@@ -37,6 +38,7 @@
                 Untuk melengkapi data diri Beeper wajib mengisi kolom Nama, Nama Belakang, Gender dan Tempat Tanggal Lahir. Setelah semua kolom pertanyaan Anda isi segera pilih Next.
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">16</div>
@@ -40,6 +41,7 @@
                 Tombol <b>Start</b> berguna untuk memberitahukan kepada <b>Beeper</b> kalau jasa yang dipesan tengah dalam proses pengerjaan. Sementara tombol Finish dibutuhkan untuk memberitahukan <b>Beeper</b>, kalau jasa yang dipesannya telah diselesaikan <b>Sider</b>. Sekaligus untuk memproses pembayaran non-tunai dari jasa yang telah diselesaikan <b>Sider</b>. Dari pihak Sidebeep ke pihak <b>Sider</b>, terhitung 3 X 24 jam setelah jasa selesai dikerjakan
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

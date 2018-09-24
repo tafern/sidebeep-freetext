@@ -25,6 +25,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">2</div>
@@ -39,6 +40,7 @@
                 Lewat <a class="subLink" href="#">Chat</a> "Beeper" dan "Sider" dapat langsung berinteraksi untuk menanyakan detail pemesanan seperti ketersediaan jasa sesuai jadwal yang diinginkan, berapa lama durasi perjalanan, berapa biaya transportasi dan berbagai pertanyaan lainnya seputar detail servis.    
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>

@@ -24,6 +24,7 @@
           </div>
 
           <div class="row">
+            <div class="col-md-4"></div>
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
                 <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">16</div>
@@ -37,6 +38,7 @@
                 Tombol Finish dibutuhkan untuk memberitahukan Beeper, kalau jasa yang dipesannya telah diselesaikan Sider. Sekaligus untuk memproses pembayaran non-tunai dari jasa yang telah diselesaikan Sider. Dari pihak Sidebeep ke pihak Sider, terhitung 3 X 24 jam setelah jasa selesai dikerjakan.
               </p>
             </div>
+            <div class="col-md-4"></div>
           </div>
 
         </div>
