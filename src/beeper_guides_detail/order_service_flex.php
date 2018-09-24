@@ -31,7 +31,7 @@
                 Pesan Jasa Flex
               </h3>
               <p>
-                <!-- <img class="imageCharacter" src="../assets/images/payment.png"> -->
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-17.png">
                 <br/>
                 Pilih FIex apabila jasa Anda membutuhkan diskusi dengan Sider untuk menentukan rincian lingkup kerja, durasi pengerjaan dan harga jasa. Contoh jasa pembuatan tato, kustom motor atau reparasi sepatu.
 

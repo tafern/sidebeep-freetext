@@ -31,7 +31,9 @@
                 Lengkapi data diri.
               </h3>
               <p>
-                <!-- <img class="imageCharacter" src="../assets/images/payment.png"> -->
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-3.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-3.a.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-3.b.png">
                 Setelah instal aplikasi Sidebeep segera lakukan registrasi dengan menggunakan alamat email, nomor telepon dan buat kata sandi.
                 <br/>
                 <br/>

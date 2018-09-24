@@ -31,7 +31,7 @@
                 Cari jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="../assets/images/find_service.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-6.png">
                 <br/>
                 Anda bisa mencari jasa dari para Sider terpercaya yang ada di Sidebeep dengan menggunakan <a class="subLink" href="">Search</a>, berdasarkan nama <a class="subLink" href="../term_of_detail/sider.php">Sider</a>, jenis jasa atau kategori jasa.
                 <br/>

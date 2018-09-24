@@ -31,7 +31,7 @@
                 Bayar non cash dengan virtual account
               </h3>
               <p>
-                <!-- <img class="imageCharacter" src="../assets/images/payment.png"> -->
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-14.png">
                 <br/>
                 Apabila Anda memilih menggunakan metode transfer virtual account untuk pembayaran non-cash, pilih Bank yang ingin digunakan. Kemudian Anda akan mendapatkan kode pembayaran. Gunakan kode pembayaran tersebut untuk membayar pesanan jasa melalui ATM atau M Banking dengan memilih menu TRANSFER lalu pilih VIRTUAL ACCOUNT. Masukan kode pembayaran virtual account, lalu Anda akan diminta melakukan pembayaran sesuai dengan nilai transaksi.
                 <br/>

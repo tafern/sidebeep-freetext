@@ -31,7 +31,7 @@
                 Bayar jasa fix dengan non cash
               </h3>
               <p>
-                <img class="imageCharacter" src="../assets/images/payment.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-13.png">
                 <br/>
                 Pembayaran non cash juga berlaku untuk jasa Fix. Setelah order di konfirmasi oleh Sider, Anda akan diminta melakukan pembayaran dalam jangka waktu maksimal 48 jam sebelum jasa dikerjakan.
                 <br/>

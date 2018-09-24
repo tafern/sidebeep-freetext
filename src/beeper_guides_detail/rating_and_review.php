@@ -31,7 +31,7 @@
                 Rating dan review jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="../assets/images/rating_and_review.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-22.png">
                 <br/>
                 Berikan <a class="subLink" href="">Rating & Review</a> berdasarkan tingkat kepuasaan Anda menggunakan jasa <a class="subLink" href="../term_of_detail/sider.php">Sider</a>.
                 <br/>

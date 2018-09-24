@@ -31,7 +31,7 @@
                 Atur waktu pesan jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="../assets/images/set_time.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-10.png">
                 <br/>
                 Pilih sendiri tanggal dan waktu, kapan Anda menginginkan jasa dari <a class="subLink" href="../term_of_detail/sider.php">Sider</a> yang telah dipilih bisa didapatkan di <a class="subLink" href="#">DATE AND TIME</a>. 
                 <br/>
