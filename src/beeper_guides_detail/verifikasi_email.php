@@ -19,9 +19,9 @@
 
       <div class="container">
           
-          <div class="header">
+          <!-- <div class="header">
             <h1 class="header-title">Bantuan mengenai Verifikasi email.</h1>
-          </div>
+          </div> -->
 
           <div class="row">
             <div class="col-md-4"></div>
