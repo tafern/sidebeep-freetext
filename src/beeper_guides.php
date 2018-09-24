@@ -79,7 +79,7 @@
                 Cari jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="assets/images/find_service.png">
+                <!-- <img class="imageCharacter" src="assets/images/find_service.png"> -->
                 <br/>
                 Anda bisa mencari jasa dari para <a class="subLink" href="term_of_detail/sider.php">Sider</a> terpercaya yang ada di Sidebeep dengan menggunakan <a class="subLink" href="#">Search</a>, berdasarkan nama <a class="subLink" href="temp_of_detail/sider.php">Sider</a>, jenis jasa atau kategori jasa. 
                 <br/>
@@ -93,7 +93,7 @@
                 Chat dengan penyedia jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="assets/images/chat.png">
+                <!-- <img class="imageCharacter" src="assets/images/chat.png"> -->
                 <br/>
                 Setelah menemukan jasa sesuai keinginan, jangan lupa gunakan <a class="subLink" href="#">Chat</a> untuk membicarakan lebih detail jasa yang akan Anda pesan langsung dari <a class="subLink" href="term_of_detail/sider.php">Sider</a>. 
                 <br/>
@@ -121,7 +121,7 @@
                 Pesan jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="assets/images/order_service.png">
+                <!-- <img class="imageCharacter" src="assets/images/order_service.png"> -->
                 <br/>Setelah pertanyaan detail servis dijawab <a class="subLink" href="term_of_detail/sider.php">Sider</a> lewat <a class="subLink" href="#">Chat</a>, segera lanjutkan pemesanan jasa dengan menentukan jumlah jasa yang dinginkan lewat <a class="subLink" href="#">Create Request</a>, lalu pilih <a class="subLink" href="#">Submit</a>.
                 <br/>
                 <br/>
@@ -134,7 +134,7 @@
                 Atur waktu pesan jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="assets/images/set_time.png">
+                <!-- <img class="imageCharacter" src="assets/images/set_time.png"> -->
                 <br/>Pilih sendiri tanggal dan waktu, kapan Anda menginginkan jasa dari <a class="subLink" href="term_of_detail/sider.php">Sider</a> yang telah dipilih bisa didapatkan di <a class="subLink" href="#">Date And Time</a>.
                 <br/>
                 <br/>
@@ -147,7 +147,7 @@
                 Tentukan lokasi pesan jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="assets/images/location.png">
+                <!-- <img class="imageCharacter" src="assets/images/location.png"> -->
                 <br/>
                 Ketahui lokasi SIDER atau tentukan lokasi dimana <a class="subLink" href="term_of_detail/sider.php">Sider</a> akan memberikan layanan jasanya kepada Anda di halaman <a class="subLink" href="#">Location</a>.
                 <br/>
@@ -161,7 +161,7 @@
                 Bayar jasa fix
               </h3>
               <p>
-                <img class="imageCharacter" src="assets/images/payment.png">
+                <!-- <img class="imageCharacter" src="assets/images/payment.png"> -->
                 <br/>
                 Lakukan Payment dengan memilih Payment Method, lalu Create Request. Pada jasa Fix ada 2 metode pembayaran yang bisa dilakukan cash atau non cash. Setelah mendapatkan konfirmasi dari Sider segera lakukan pembayaran.
                 <br/>
@@ -309,7 +309,7 @@
                 Rating & review jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="assets/images/rating_and_review.png">
+                <!-- <img class="imageCharacter" src="assets/images/rating_and_review.png"> -->
                 <br/>Berikan <a class="subLink" href="#">Rating & Review</a> berdasarkan tingkat kepuasaan Anda menggunakan jasa <a class="subLink" href="term_of_detail/sider.php">Sider</a>.
                 <br/>
                 <br/>
