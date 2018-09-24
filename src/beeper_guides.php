@@ -19,7 +19,7 @@
 
       <div class="container">
           
-          <div class="header">
+          <div class="header hidden-xs hidden-sm">
             <h1 class="header-title">Panduan Beeper</h1>
           </div>
 
