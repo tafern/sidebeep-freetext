@@ -313,7 +313,7 @@
                 Bagaimana cara melakukan pencairan pembayaran jasa Anda melalui metode non cash lewat aplikasi Sidebeep?
                 <br/>
                 <br/>
-                <a class="c-btn c-btn--small" href="sider_guides_detail/Withdrawal_money.php">Selengkapnya mengenai Withdrawal Money</a>
+                <a class="c-btn c-btn--small" href="sider_guides_detail/withdrawal_money.php">Selengkapnya mengenai Withdrawal Money</a>
               </p>
             </div>
 
