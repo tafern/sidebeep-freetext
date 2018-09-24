@@ -26,7 +26,7 @@
           <div class="row">
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">6</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">7</div>
                 Profile picture
               </h3>
               <p>

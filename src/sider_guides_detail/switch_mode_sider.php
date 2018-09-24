@@ -36,8 +36,8 @@
                 <br/>
                 <img class="imageCharacter" src="../assets/images/sider_stepper/pindah_mode_2.png">
                 <br/>
-                <br/>
-                Semua akun saat masuk ke aplikasi Sidebeep akan terdaftar menjadi <a class="subLink" href="../term_of_detail/beeper.php">Beeper</a>. Untuk itu Sider harus merubah settingan jenis pengguna aplikasi ke mode <a class="subLink" href="../term_of_detail/sider.php">Sider</a>. 
+                  Pindah ke mode <a class="subLink" href="../term_of_detail/sider.php">Sider</a>
+                  Semua akun saat masuk ke aplikasi Sidebeep akan terdaftar menjadi <a class="subLink" href="../term_of_detail/beeper.php">Beeper</a>. Untuk itu <a class="subLink" href="../term_of_detail/sider.php">Sider</a> harus merubah settingan jenis pengguna aplikasi ke mode <a class="subLink" href="../term_of_detail/sider.php">Sider</a>. 
               </p>
             </div>
           </div>

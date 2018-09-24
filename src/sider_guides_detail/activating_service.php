@@ -26,13 +26,15 @@
           <div class="row">
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">9</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">12</div>
                 Aktifkan jasa
               </h3>
               <p>
                 Untuk bisa menjual jasa kepada <a class="subLink" href="../term_of_detail/beeper.php">Beeper</a> pastikan akun Anda telah melakukan <a class="subLink" href="#">Verifikasi</a> dan jasa yang dibuat telah Aktif.
                 <br/>
-                <img class="imageCharacter" src="../assets/images/sider_stepper/aktifin_servis.png">
+                <img class="imageCharacter" src="../assets/images/sider_stepper/aktifin_servis_1.png">
+                <br/>
+                <img class="imageCharacter" src="../assets/images/sider_stepper/aktifin_servis_2.png">
                 <br/>
                 <br/>
                 Agar jasa bisa aktif segera lakukan verifikasi akun Anda dengan memenuhi syarat verifikasi dan menunggu pengecekan dari pihak Sidebeep paling lama 3 x 24 Jam. Setelah itu lakukan pengaktifan servis dengan masuk ke lama service, lalu pilih active. Pilih jasa yang ingin di aktifkan, lalu rubah status jasa dari Inactive menjadi Active. Apabila belum Active juga periksan akun dengan masuk ke halaman profile yang ada di kiri atas pastikan foto profile, alamat email, no handphone, kartu identitas Anda berstatus Verified. 

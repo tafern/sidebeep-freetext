@@ -26,13 +26,13 @@
           <div class="row">
             <div class="col-md-4 minHeight">
               <h3 class="u-txt--xlarge u-txt--light">
-                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">7</div>
+                <div class="c-badge c-badge--large c-badge--yellow u-txt--xlarge u-align-center">8</div>
                 Membuat Jasa
               </h3>
               <p>
                 Segera buat jasa Anda dengan melengkapi beberapa langkah seperti <a class="subLink" href="#">Choose Category Services</a>, pilih jenis layanan jasa <a class="subLink" href="../temp_of_detail/fix.php">Fix</a> atau <a class="subLink" href="../temp_of_detail/flex.php">Flex</a> dan tentukan lokasi jasa Anda di <a class="subLink" href="#">Choose Location</a>.
                 <br/>
-                <img class="imageCharacter" src="../assets/images/sider_stepper/buat_jasa.png">
+                <img class="imageCharacter" src="../assets/images/sider_stepper/buat_jasa_1.png">
                 <br/>
                 <br/>
                 Pilih menu (+) service untuk membuat jasa Anda, lalu pilih Choose Category Services untuk menentukan jenis kategori jasa Anda di aplikasi Sidebeep. Tentukan juga jenis layanan jasa Anda Fix atau Flex. Selanjutnya buat layanan jasa Anda dengan melengkapi (foto, nama servis dan deskripsi). Terakhir coba tentukan juga pilihan lokasi untuk layanan jasa Anda di Choose Location. 
