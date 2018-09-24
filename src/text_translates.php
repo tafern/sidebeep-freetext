@@ -7,8 +7,8 @@
         <meta name="description" content="Provides a very basic HTML multilingual support using JavaScript">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link href='http://fonts.googleapis.com/css?family=Quattrocento+Sans:700' rel='stylesheet' type='text/css'>
-        <!-- <link href='http://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'> -->
+        <link href='https://fonts.googleapis.com/css?family=Quattrocento+Sans:700' rel='stylesheet' type='text/css'>
+        <!-- <link href='https://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'> -->
 
         <style type="text/css">
                 .head {
