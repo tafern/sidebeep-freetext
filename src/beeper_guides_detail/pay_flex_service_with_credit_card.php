@@ -19,9 +19,9 @@
 
       <div class="container">
           
-          <!-- <div class="header">
+          <div class="header hidden-xs hidden-sm">
             <h1 class="header-title">Bantuan mengenai Bayar Flex dengan Kartu Kredit.</h1>
-          </div> -->
+          </div>
 
           <div class="row">
             <div class="col-md-4"></div>
