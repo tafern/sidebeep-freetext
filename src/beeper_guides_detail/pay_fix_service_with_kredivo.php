@@ -31,7 +31,7 @@
                 Bayar dengan Kredivo
               </h3>
               <p>
-                <!-- <img class="imageCharacter" src="../assets/images/payment.png"> -->
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-16.png">
                 <br/>
                 Masuk ke Payment, pilih Kredivo dan pilih Pay. Untuk menyelesaikan pembayaran menggunakan Kredivo segera login atau daftar. Masukan nomor ponsel Anda serta PIN Kredivo. Tunggu notifikasi tanda pembayaran Anda sedang diproses Kredivo.
                 <br/>

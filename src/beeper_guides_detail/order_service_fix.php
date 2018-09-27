@@ -31,7 +31,7 @@
                 Pesan Jasa Fix
               </h3>
               <p>
-                <!-- <img class="imageCharacter" src="../assets/images/payment.png"> -->
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-8.png">
                 <br/>
                 Jasa Fix adalah jasa yang tarifnya telah ditentukan di awal tanpa perlu didiskusikan terlebih dahulu oleh Sider dan Beeper dan memiliki durasi pengerjaan tak kurang dari 1 hari. Contoh jasa Fix : jasa pijat, potong rambut.
                 <br/>

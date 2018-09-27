@@ -31,7 +31,7 @@
                 Bayar jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="../assets/images/payment.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-11.png">
                 <br/>
                 Lakukan <a class="subLink" href="">PAYMENT</a> dengan memilih Payment Method, lalu <a class="subLink" href="">CREATE REQUEST</a>. Setelah mendapatkan konfirmasi dari <a class="subLink" href="../term_of_detail/sider.php">Sider</a> segera lakukan pembayaran.
                 <br/>

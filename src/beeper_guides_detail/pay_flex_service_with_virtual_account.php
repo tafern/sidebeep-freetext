@@ -31,7 +31,7 @@
                 Bayar jasa Flex dengan virtual account
               </h3>
               <p>
-                <!-- <img class="imageCharacter" src="../assets/images/payment.png"> -->
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-19a.png">
                 <br/>
                 Pilih Bank yang ingin digunakan, kemudian Anda akan mendapatkan kode pembayaran. Gunakan kode pembayaran tersebut untuk membayar pesanan jasa melalui ATM atau M Banking dengan memilih menu TRANSFER lalu pilih VIRTUAL ACCOUNT. Masukan kode pembayaran virtual account, lalu Anda akan diminta melakukan pembayaran sesuai dengan nilai transaksi.
                 <br/>

@@ -31,7 +31,7 @@
                 Bayar jasa fix dengan cash
               </h3>
               <p>
-                <!-- <img class="imageCharacter" src="../assets/images/payment.png"> -->
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-12.png">
                 <br/>
                 Pembayaran dengan metode Cash hanya berlaku untuk jasa Fix. Pembayaran dengan metode cash bisa dilakukan setelah jasa fix yang dipesan berakhir.
                 <br/>

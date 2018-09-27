@@ -31,7 +31,7 @@
                 Bayar dengan Kartu Kredit
               </h3>
               <p>
-                <img class="imageCharacter" src="../assets/images/payment.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-15.png">
                 <br/>
                 Masuk ke Payment pilih Payment Method Credit Card, lengkapi nomor kartu kredit, masa berlaku kartu kredit dan kode CVV kartu kredit Anda, pilih Pay. Masuk ke halaman verifikasi sms OTP dan masukan kode OTP melalui nomor ponsel. 
                 <br/>

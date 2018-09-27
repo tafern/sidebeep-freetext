@@ -31,7 +31,11 @@
                 Verifikasi email
               </h3>
               <p>
-                <!-- <img class="imageCharacter" src="../assets/images/payment.png"> -->
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-5.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-5.a.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-5.b.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-5.c.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-5.d.png">
                 <br/>
                 Setiap Beeper harus melewati proses verifikasi untuk bisa melakukan aktivitas memesan jasa di aplikasi Sidebeep.
                 <br/>

@@ -31,7 +31,8 @@
                 Bayar jasa Flex
               </h3>
               <p>
-                <!-- <img class="imageCharacter" src="../assets/images/payment.png"> -->
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-18a.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-18b.png">
                 <br/>
                 Setelah Anda menyetujui QUOTATION dari Sider untuk jasa Anda, segera lakukan pembayaran dengan metode non-cash dapat menggunakan Credit Card, Virtual Account atau pun Kredivo.
                 <br/>

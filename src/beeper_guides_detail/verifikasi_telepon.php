@@ -31,7 +31,8 @@
                 Verifikasi No Telepon
               </h3>
               <p>
-                <!-- <img class="imageCharacter" src="../assets/images/payment.png"> -->
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-4.1.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-4.2.png">
                 <br/>
                 Pihak Sidebeep melakukan verifikasi dengan menelpon nomor yang didaftarkan. Nomor handphone Anda telah selesai verifikasi, apabila mendapatkan notifikasi verification completed. 
                 <br/>

@@ -31,7 +31,7 @@
                 Tentukan lokasi pesan jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="../assets/images/location.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-11.png">
                 <br/>
                 Ketahui lokasi SIDER atau tentukan lokasi dimana <a class="subLink" href="../term_of_detail/sider.php">Sider</a> akan memberikan layanan jasanya kepada Anda di halaman <a class="subLink" href="">Location</a>.
                 <br/>

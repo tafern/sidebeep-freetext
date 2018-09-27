@@ -32,7 +32,7 @@
                 Chating dengan penyedia jasa
               </h3>
               <p>
-                <img class="imageCharacter" src="../assets/images/chat.png">
+                <img class="imageCharacter" src="../assets/images/beeper/beeper-7.png">
                 <br/>
                 Setelah menemukan jasa sesuai keinginan, jangan lupa gunakan <a class="subLink" href="#">Chat</a> untuk membicarakan lebih detail jasa yang akan Anda pesan langsung dari <a class="subLink" href="../term_of_detail/sider.php">Sider</a>. 
                 <br/>
